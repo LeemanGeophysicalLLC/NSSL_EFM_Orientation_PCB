@@ -5856,7 +5856,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "40fbc20c-069c-4520-8b8a-4105097f8daa")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR047"
 			(at 193.04 119.38 0)
 			(effects
 				(font
@@ -5906,7 +5906,7 @@
 		(instances
 			(project "Orientation_Paddle"
 				(path "/6c14ab86-27f6-4df4-bc2f-a5f06a463ed0/817373c8-62ef-4a18-9a02-3efa5f4e7a1a"
-					(reference "#PWR048")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -7751,7 +7751,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c7f5338a-167d-4e18-bcce-c5486c7b9af9")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR048"
 			(at 236.22 119.38 0)
 			(effects
 				(font
@@ -7801,7 +7801,7 @@
 		(instances
 			(project "Orientation_Paddle"
 				(path "/6c14ab86-27f6-4df4-bc2f-a5f06a463ed0/817373c8-62ef-4a18-9a02-3efa5f4e7a1a"
-					(reference "#PWR047")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)

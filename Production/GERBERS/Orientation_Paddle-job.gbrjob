@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.1"
+      "Version": "9.0.6"
     },
-    "CreationDate": "2025-07-04T09:36:57-05:00"
+    "CreationDate": "2026-02-13T16:31:20-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Orientation_Paddle",
       "GUID": "4f726965-6e74-4617-9469-6f6e5f506164",
-      "Revision": "2.1"
+      "Revision": "2.2"
     },
     "Size": {
       "X": 158.85,

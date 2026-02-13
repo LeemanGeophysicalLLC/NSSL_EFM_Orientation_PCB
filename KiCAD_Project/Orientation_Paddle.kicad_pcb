@@ -9,8 +9,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Orientation Paddle - NSSL EFM")
-		(date "2025-07-03")
-		(rev "2.1")
+		(date "2026-02-13")
+		(rev "2.2")
 		(company "Leeman Geophysical LLC")
 		(comment 1 "(479) 373-3736")
 		(comment 2 "Gentry, AR 72734")
@@ -19107,7 +19107,7 @@
 				)
 			)
 		)
-		(property "Description" "10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19170,7 +19170,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ff4ec991-fe1a-445b-8704-da8d950b4144")
+			(uuid "11700989-3075-465c-b78e-7f75571e1af4")
 		)
 		(fp_line
 			(start -0.8 3.5)
@@ -19180,7 +19180,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "da259a99-156a-4a67-9056-16f2c26775b4")
+			(uuid "163bc5e2-959b-4903-986b-0892a184fdbe")
 		)
 		(fp_line
 			(start -0.8 9.9)
@@ -19190,7 +19190,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "99eef85c-8272-4f28-983b-8d6e4d3b7106")
+			(uuid "2da0f572-d419-4498-a2af-ecfc6f4fa76d")
 		)
 		(fp_line
 			(start -0.8 13.1)
@@ -19200,7 +19200,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4d11125d-3b4e-46a8-a110-1c7f71788bdb")
+			(uuid "01525186-1b98-428e-8492-917677a8c0d0")
 		)
 		(fp_line
 			(start 11 0)
@@ -19210,7 +19210,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f8131e10-895e-47a0-bbfe-b1075e61a912")
+			(uuid "7bf5cbe1-d505-4438-a8d8-09528c454c93")
 		)
 		(fp_line
 			(start 11.9 16)
@@ -19220,7 +19220,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7edd7837-a2ab-494f-b8f9-cbb500815ee0")
+			(uuid "ae4073fe-ae17-4cf2-b32c-8922bb099415")
 		)
 		(fp_line
 			(start 12.7 0)
@@ -19230,7 +19230,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "72a2b618-d814-4b4a-9c84-203809f43e5f")
+			(uuid "cc5c5630-1a32-41be-821d-f947767d2e8e")
 		)
 		(pad "1" smd rect
 			(at 8.8 0)
@@ -19699,7 +19699,7 @@
 			)
 		)
 	)
-	(gr_text "ISCP"
+	(gr_text "ICP"
 		(at 97.409 83.439 0)
 		(layer "F.SilkS")
 		(uuid "b206c646-943b-415b-b188-a4a811e10da8")
@@ -19840,7 +19840,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "ISCP"
+	(gr_text "ICP"
 		(at 97.409 83.439 0)
 		(layer "B.SilkS")
 		(uuid "aa5531db-6f71-42c3-b402-3d222d99177e")
