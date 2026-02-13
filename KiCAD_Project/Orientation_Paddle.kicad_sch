@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Orientation Paddle")
-		(date "2025-07-03")
-		(rev "2.1.0")
+		(date "2026-02-13")
+		(rev "2.2.0")
 		(company "Leeman Geophysical LLC")
 		(comment 1 "(479) 373-3736")
 		(comment 2 "Gentry AR, 72734")
@@ -9874,7 +9874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "3-0000273"
+		(property "Internal Part Number" "3-0000299"
 			(at 164.465 168.91 0)
 			(effects
 				(font
